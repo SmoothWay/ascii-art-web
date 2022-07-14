@@ -2,8 +2,7 @@
 
 This small project is aimed to draw ascii-art in the web page with several fontTypes.
 
-## Authors
-`timshowtime` and `insaneEra` 
+<img width="800" src="./screenshot.png" />
 
 ## Usage: how to run?
 Clone this repository to your local machine. `cd ascii-art-web` and type `go run ./cmd/`  
