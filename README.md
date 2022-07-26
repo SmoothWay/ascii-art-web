@@ -5,8 +5,11 @@ This small project is aimed to draw ascii-art in the web page with several fontT
 <img width="800" src="./screenshot.png" />
 
 ## Usage: how to run?
-Clone this repository to your local machine. `cd ascii-art-web` and type `go run ./cmd/`  
-After you can go to the browser and enter this link: `localhost:8080`.  
+Clone this repository to your local machine. `cd ascii-art-web` and type 
+```shell
+go run ./cmd/
+```
+After you can go to the browser and enter this link: `http://localhost:8080`.  
 Then you need to enter text and choose fontype and press to submit button.
 
 ## Implementation
